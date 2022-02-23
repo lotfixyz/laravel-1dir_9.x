@@ -13,8 +13,8 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
-
+    'name' => env('APP_NAME', 'Laravel 1dir'),
+    '1dir_version' => env('APP_1DIR_VERSION', '9.x'),
     /*
     |--------------------------------------------------------------------------
     | Application Environment
